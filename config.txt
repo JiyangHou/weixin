@@ -1,0 +1,16 @@
+{
+    
+    "app_id":"wxe1d5ba2c1f3fa3b3",
+    
+    "app_secret":"792f336ff869bcb01564cbb0c781904e",
+     
+    "template_id":"LquV9ZAoeJbYuWhh9qI4s5FWY_IJ2NPq7TX4RSbuJ9A",
+   
+    "user":["oEacm6jtRTQ8eOf5ztnbIwn0Z9VE"],
+   
+   "birthday1":"2024-07-01", 
+   "love_date":"2024-07-01",
+   "weather_key": "30b7732f8c344ea2831ede1ab3c98ab7",
+   "love_key":"f841d49aefd15af36eb082296b5aab9f",
+   "region": "焦作"
+}
