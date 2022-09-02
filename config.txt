@@ -6,7 +6,7 @@
      
     "template_id":"LquV9ZAoeJbYuWhh9qI4s5FWY_IJ2NPq7TX4RSbuJ9A",
    
-    "user":["oEacm6jtRTQ8eOf5ztnbIwn0Z9VE"],
+    "user":["oEacm6nX-t4cmEDCKpeaOj_03IcY","oEacm6i_0A4NfAnt8kNfrSBGWYUk"],
    
    "birthday1":"2024-07-01", 
    "love_date":"2024-07-01",
